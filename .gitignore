@@ -1,0 +1,4 @@
+public/videos/*
+public/channels/*
+
+!.gitkeep
