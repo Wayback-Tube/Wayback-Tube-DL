@@ -2,3 +2,8 @@ public/videos/*
 public/channels/*
 
 !.gitkeep
+
+cwebp
+ffmpeg
+ffprobe
+yt-dlp
